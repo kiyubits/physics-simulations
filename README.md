@@ -7,3 +7,5 @@ I intend to make a blog that documents some of my findings and explanations abou
 # How to run
 
 I plan to have an Python virtual environment in this repo, so all you need to do to have the required modules is run `source env/bin/activate` in the main directory, and then it should all be there. I think that I'll be using a lot of `numpy`, `scipy` and `matplotlib` :)
+
+Type `deactivate` anywhere to exit the virtual environment.
